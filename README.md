@@ -1,6 +1,6 @@
 # IoM_Code
 
-First unzip all the folders from this [link]([url](https://drive.google.com/file/d/1J4rryS0zwjrNCFmKUKpgsaFnZQGErB1h/view?usp=drive_link)https://drive.google.com/file/d/1J4rryS0zwjrNCFmKUKpgsaFnZQGErB1h/view?usp=drive_link).
+First unzip all the folders from this url: https://drive.google.com/file/d/1J4rryS0zwjrNCFmKUKpgsaFnZQGErB1h/view?usp=drive_link
 
 - Place data folder along with GRP_IoM and URP_IoM.
 - Place maxout folder in GRP_IoM folder.
